@@ -42,3 +42,6 @@ For development, you can use main.py to test your calculate() function. Click th
 We imported the tests from test_module.py to main.py for your convenience. The tests will run automatically whenever you hit the "run" button.
 ### Submitting
 Copy your project's URL and submit it to freeCodeCamp.
+
+### Run this code at:
+<a href='https://replit.com/@TanmayPhalke/boilerplate-mean-variance-standard-deviation-calculator'>Here</a>
